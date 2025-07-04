@@ -1,7 +1,7 @@
 --- this is a live  data which we capture that's why it is showing same value  in every record(row)
 ![Screenshot 2025-07-05 004321](https://github.com/user-attachments/assets/fe4b2852-fa50-4467-b96b-da7ecf095795)
 
--- this is airflow dag which shows tha our pipeline is  good to go . 
+
 
 
 dags: This folder contains the Python files for your Airflow DAGs. By default, this directory includes one example DAG:
@@ -19,6 +19,8 @@ plugins: Add custom or community plugins for your project to this file. It is em
 
 airflow_settings.yaml: Use this local-only file to specify Airflow Connections, Variables, and Pools instead of entering them in the Airflow UI as you develop DAGs in this project.
 
+
+-- this is airflow dag which shows tha our pipeline is  good to go . 
 ![Screenshot 2025-07-05 004408](https://github.com/user-attachments/assets/2a0710d8-577c-4a50-929c-009112194723)
 
 
