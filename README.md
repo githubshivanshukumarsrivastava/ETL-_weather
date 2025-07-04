@@ -24,3 +24,8 @@ airflow_settings.yaml: Use this local-only file to specify Airflow Connections, 
 ![Screenshot 2025-07-05 004408](https://github.com/user-attachments/assets/2a0710d8-577c-4a50-929c-009112194723)
 
 
+ --after run  it into a dbeaver  and  analyzing it that it running correct or not .. i upload it  at amazon rds (AWS) 
+
+![image](https://github.com/user-attachments/assets/a116aaab-148a-4ad7-b5bd-4af6344ffe0d)
+
+
